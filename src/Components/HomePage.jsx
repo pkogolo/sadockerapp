@@ -11,7 +11,7 @@ function HomePage() {
                 </h1>
 
                 <p className='text-white sm:w-1/3 w-5/6 text-center mt-8'>A JavaScript Audio Visualization
-                    Of Great Speeches Made By Great Africans</p>
+                    Of Great Speeches Made By Great Africans!</p>
 
                 <Link to='/visual-stories' >
                     <button className='bg-[#F2811D] p-4 text-white mt-16'>
